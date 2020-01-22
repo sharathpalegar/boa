@@ -6,9 +6,10 @@ adding the file
 for comparison
 
 
-
-
-
 #result
 
 can see result in github
+
+testing
+
+im adding this line for cheking workdirectory wih stagging area
